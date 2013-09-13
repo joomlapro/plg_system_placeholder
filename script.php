@@ -3,7 +3,8 @@
  * @package     Joomla.Plugin
  * @subpackage  System.Placeholder
  *
- * @copyright   Copyright (C) 2013 AtomTech, Inc. All rights reserved.
+ * @author      Bruno Batista <bruno@atomtech.com.br>
+ * @copyright   Copyright (C) 2013 AtomTech IT Services. All rights reserved.
  * @license     GNU General Public License version 2 or later; see LICENSE.txt
  */
 

@@ -3,7 +3,8 @@
  * @package     Joomla.Plugin
  * @subpackage  System.Placeholder
  *
- * @copyright   Copyright (C) 2013 AtomTech, Inc. All rights reserved.
+ * @author      Bruno Batista <bruno@atomtech.com.br>
+ * @copyright   Copyright (C) 2013 AtomTech IT Services. All rights reserved.
  * @license     GNU General Public License version 2 or later; see LICENSE.txt
  */
 
@@ -53,7 +54,7 @@ class PlgSystemPlaceholder extends JPlugin
 		// Build the script.
 		$script = array();
 		$script[] = 'jQuery(document).ready(function($) {';
-		$script[] = '	$(\'' . $this->params->get('selector', 'input, textarea') . '\').placeholder();';
+		$script[] = '  $(\'' . $this->params->get('selector', 'input, textarea') . '\').placeholder();';
 		$script[] = '});';
 
 		// Add the script to the document head.
