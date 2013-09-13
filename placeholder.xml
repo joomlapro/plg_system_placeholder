@@ -9,7 +9,7 @@
 	<authorUrl>http://www.atomtech.com.br</authorUrl>
 	<version>1.0</version>
 	<description>PLG_SYSTEM_PLACEHOLDER_XML_DESCRIPTION</description>
-	<scriptfile />
+	<scriptfile>script.php</scriptfile>
 	<files>
 		<filename plugin="placeholder">placeholder.php</filename>
 		<filename>index.html</filename>
