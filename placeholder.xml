@@ -43,6 +43,7 @@
 					type="text"
 					size="40"
 					class="inputbox"
+					default="input, textarea"
 					filter="string"
 					label="PLG_SYSTEM_PLACEHOLDER_FIELD_SELECTOR_LABEL"
 					description="PLG_SYSTEM_PLACEHOLDER_FIELD_SELECTOR_DESC" />
